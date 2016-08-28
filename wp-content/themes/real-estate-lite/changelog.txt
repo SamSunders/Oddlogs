@@ -1,0 +1,6 @@
+29/01/2016 - customizer.php error fixed
+11/02/2016 - Documentation Added, header image added
+11/02/2016 - Added featured image to header
+03/03/2016 - Fixed header image issues
+21/03/2016 - Footer copyright update
+30/03/2016 - removed srcset causing conflict with slider
