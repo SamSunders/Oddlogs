@@ -1,0 +1,13 @@
+body{
+  background-color: #ccc;
+}
+
+.wrapper {
+  text-align: center;
+  background-color: #fff;
+  width: 70%;
+  border-radius: 25px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 20px;
+}
